@@ -1,0 +1,22 @@
+li{
+    display: inline-block;
+}
+a{
+    display:block;
+    padding: 10px;
+    background-color:yellow;
+    text-decoration: none;
+    border-style: double;
+    border-color: darkgoldenrod;
+}
+
+body{
+    background-image: url("Slike/cool-background.png") ;
+    color:white;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+img {
+    height: 400px;
+    width:300px;
+}
